@@ -16,10 +16,10 @@ export default {
         {
           id: 2,
           name: 'Netflix Clone',
-          imageUrl: 'Netflix',
+          imageUrl: 'netflix',
           status: 'Netflix Clone Talwind and CSS3 ,react-redux,styled-components,firebase,react-hook-form,axios,bootstrap.',
           tech: 'React JS,styled-components',
-          github: 'https://github.com/rakha-elctrnx/muslim-companion',
+          github: 'https://github.com/xaliiakkus/Netflix-Clone-React-redux-firebase',
           demo: 'https://github.com/xaliiakkus/Netflix-Clone-React-redux-firebase'
         },
         {
